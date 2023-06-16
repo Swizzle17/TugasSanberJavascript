@@ -1,0 +1,20 @@
+{
+  "name": "tugassanberjavascript",
+  "version": "1.0.0",
+  "description": "tugas javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node akarpangkat.js"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "supertest"
+  ],
+  "author": "Irene",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
